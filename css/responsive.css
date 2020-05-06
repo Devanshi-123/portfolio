@@ -1,0 +1,13 @@
+/*if viewport is less than or equal to 340px*/
+@media only screen and (max-width:340px){
+    .header-area .main-menu .navbar,
+     .header-area .main-menu .navbar 
+    {
+        padding: 2%;
+        margin: 0%;
+    }
+    
+    .site-main .about-area .about-title h2 > span{
+        letter-spacing: 10px;
+    }
+}
